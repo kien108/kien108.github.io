@@ -398,6 +398,7 @@ html {
     color: #fff;
     padding: 10px 16px;
     float: right;
+    --webkit-appearance: none;
 }
 
 .contact-form .form-submit-btn:hover {
